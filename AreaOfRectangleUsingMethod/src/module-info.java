@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ShubhamLekule
+ *
+ */
+module AreaOfRectangleUsingMethod {
+}
